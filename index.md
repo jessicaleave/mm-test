@@ -6,8 +6,8 @@ author_profile: false
 
 ## 👋 Welcome to my Portfolio Site
 
-### I’m **Jessica Liu** 
-📍 Sunnyvale, CA 🔗 [LinkedIn](https://www.linkedin.com/in/xinyue-liu-018473a5/)
+### I’m **Jessica Liu**<br>
+📍 Sunnyvale, CA 🔗 [LinkedIn](https://www.linkedin.com/in/xinyue-liu-018473a5/)<br>
 **Business Intelligence & Data Analytics | Product Strategy | Cost Optimization** 
 
 *This site showcases my work and learning in **data analytics**, **automation**, **data strategy**, and **AI applications**.*
