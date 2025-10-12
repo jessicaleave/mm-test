@@ -1,10 +1,13 @@
 ---
 layout: home
-title: "Welcome"
-author_profile: true
+title: ""
+author_profile: false
 ---
 
-# 👋 Xinyue (Jessica) Liu
+# 👋 Welcome
+
+### I’m **Xinyue (Jessica) Liu**
+
 🎯 **Business Intelligence & Data Analytics | Product Strategy | Supply Chain Optimization** 
 📍 Sunnyvale, CA 📧 🔗 [LinkedIn](https://www.linkedin.com/in/xinyue-liu-018473a5/)
 
