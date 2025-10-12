@@ -4,20 +4,21 @@ title: ""
 author_profile: false
 ---
 
-# 👋 Welcome
+# 👋 Welcome to my Portfolio Site
 
-### I’m **Xinyue (Jessica) Liu**
+### I’m **Jessica Liu**
 
-🎯 **Business Intelligence & Data Analytics | Product Strategy | Supply Chain Optimization** 
-📍 Sunnyvale, CA 📧 🔗 [LinkedIn](https://www.linkedin.com/in/xinyue-liu-018473a5/)
+**Business Intelligence & Data Analytics | Product Strategy | Cost Optimization** 
+📍 Sunnyvale, CA 🔗 [LinkedIn](https://www.linkedin.com/in/xinyue-liu-018473a5/)
 
-⭐ *This site showcases my work and learning in **data analytics**, **automation**, **product data strategy**, and **AI applications**.*
+*This site showcases my work and learning in **data analytics**, **automation**, **data strategy**, and **AI applications**.*
 
-## 🧭 About Me
+# About Me
 
-I’m a **Business Intelligence Analyst** at **Applied Materials**, where I combine data analytics, product understanding, and cross-functional collaboration to drive operational excellence.
+I’m a **Business Intelligence Analyst** at **Applied Materials**. My work involves building **dashboards**, **automating reports**, and supporting **cost and supply chain analysis** across global teams.
 
-My experience bridges **semiconductor equipment, manufacutring and supply chain analytics, cost modeling, and product management**, powered by advanced analytics and automation skills in **SQL, Python, Tableau/Power BI, and Databricks**.
+I’ve spent the past few years working with both **semiconductor manufacturing data** — from semiconductor equipment and **MES** systems — and **business operation data** from **SAP** and other enterprise platforms, using tools like **SQL**, **Tableau/Power BI**, **Python**, and **Excel** to turn complex information into actionable insights.
+
 
 ## 🎓 Education
 
@@ -25,8 +26,8 @@ My experience bridges **semiconductor equipment, manufacutring and supply chain 
 **Harbin Institute of Technology** — B.S. Electrical Engineering  
 
 ## 💡 What I Do
-- **Manufacturing Performance and Cost Modeling**  
-  Develop Total Cost of Ownership (TCO)/Cost-per-Wafer models integrating SAP, MES, and BOM data to support pricing, sourcing, and customer negotiations.
+- **Equipment Performance and Cost Modeling**  
+  Develop Total Cost of Ownership (TCO)/Should-Cost models integrating SAP, MES, and BOM data to support product development, pricing, operation, and customer negotiations.
 
 - **Cross-Functional Product Delivery**  
   Lead analytics and software development initiatives — from BRD/PRD creation to UAT and global rollout — ensuring alignment between Engineering, Operations, and Product teams.
