@@ -4,7 +4,7 @@ This repository hosts my **personal portfolio website**, built with the [Minimal
 It showcases my projects in **business intelligence**, **data analytics**, and **LLM applications**,especially focused on **cost modeling** and **manufacturing analytics**. 
 
 ## 🚀 Live Site
-👉 [https://yourusername.github.io/mm-test](https://yourusername.github.io/mm-test)
+👉 [https://jessicaleave.github.io/mm-test](https://jessicaleave.github.io/mm-test)
 
 ## 🧭 Site Overview
 
