@@ -6,13 +6,12 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
+@import "minimal-mistakes"; // main p
 // === Layout width ===
 .page,
 .page__inner-wrap,
 .archive {
-  max-width: 1100px;     // 960->1100
+  max-width: 1100px !important;     // 960->1100
   margin: 0 auto;         // center align
 }
 .page__content {
