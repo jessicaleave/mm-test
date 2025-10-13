@@ -2,6 +2,7 @@
 layout: home
 title: ""
 author_profile: false
+classes: wide
 ---
 
 ## 👋 Welcome to my Portfolio Site
