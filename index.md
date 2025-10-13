@@ -27,7 +27,7 @@ I’ve spent the past few years working with both **semiconductor manufacturing 
 
 ### 💡 What I Do
 - **Equipment Performance and Cost Modeling**  
-  Develop Total Cost of Ownership (TCO)/Should-Cost models integrating SAP, MES, and BOM data to support product development, pricing, operation, and customer negotiations.
+  Utilize SAP, MES, and BOM data to analyze equiment performance, develop Total Cost of Ownership (TCO)/Should-Cost models, and support product development, pricing, operation, and customer engagement.
 
 - **Cross-Functional Product Delivery**  
   Lead analytics and software development initiatives — from BRD/PRD creation to UAT and global rollout — ensuring alignment between Engineering, Operations, and Product teams.
