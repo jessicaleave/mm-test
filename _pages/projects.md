@@ -2,13 +2,17 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+classes: wide
 ---
 
 Here are some of my featured projects:
 ## Tool Log Analysis
-Generated Mock data with Python Script
-EDA with Jupyter Notebook
-Tableau Dashboard to monitor tool KPIs
+
+- Generated Mock data with Python Script
+- EDA with Jupyter Notebook
+- Tableau Dashboard to monitor tool KPIs
+
+**Visualization:** [View on Tableau Public](https://public.tableau.com/app/profile/jessica.liu1317/viz/ToolLogAnalysis/ToolUtlizationDowntime)
 
 ## 📊 E-Commerce Sales Dashboard
 
