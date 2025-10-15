@@ -11,7 +11,7 @@ Here are some of my featured projects:
 - Generated Mock data with Python Script
 - EDA with Jupyter Notebook
 - Tableau Dashboard to monitor tool KPIs
-
+**GitHub Repository:** [github repo](https://github.com/jessicaleave/tool-log-analysis)  
 **Visualization:** [View on Tableau Public](https://public.tableau.com/app/profile/jessica.liu1317/viz/ToolLogAnalysis/ToolUtlizationDowntime)
 
 ## 📊 E-Commerce Sales Dashboard
