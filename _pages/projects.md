@@ -13,7 +13,14 @@ Here are some of my featured projects:
 - Tableau Dashboard to monitor tool KPIs
 
 **GitHub Repository:** [github repo](https://github.com/jessicaleave/tool-log-analysis)  
-**Visualization:** [View on Tableau Public](https://public.tableau.com/app/profile/jessica.liu1317/viz/ToolLogAnalysis/ToolUtlizationDowntime)
+**Visualization:** [View on Tableau Public](https://public.tableau.com/app/profile/jessica.liu1317/viz/ToolLogAnalysis/ToolUtilizationDowntime)
+
+<div style="text-align:center; margin-top: 0.5rem;">
+  <iframe
+    src="https://public.tableau.com/app/profile/jessica.liu1317/viz/ToolLogAnalysis/ToolUtilizationDowntime?:showVizHome=no&:embed=true"
+    width="100%" height="820" frameborder="0">
+  </iframe>
+</div>
 
 ## 📊 E-Commerce Sales Dashboard
 
